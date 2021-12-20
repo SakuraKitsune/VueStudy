@@ -1,0 +1,20 @@
+[
+	{
+		"caption": ["col0-input"],
+		"ref": "col0",
+		"type": "input",
+		"width": "200px"
+	},
+	{
+		"caption": ["col1-output"],
+		"ref": "col1",
+		"type": "output",
+		"width": "200px"
+	},
+	{
+		"caption": ["col2-textarea"],
+		"ref": "col2",
+		"type": "textarea",
+		"width": "200px"
+	}
+]
